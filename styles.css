@@ -1,0 +1,237 @@
+body {
+
+    background-image: url(Divertidamente\ fundo.png);
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+
+#app {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#homepage{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+button {
+    padding: 10px 200px;
+    background-color: #ca77c6;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+input{
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+}
+
+#Cabeçalho{
+    justify-content: center;
+    align-self: center;
+    width: 90px ;
+    height: 90px ;
+    background-size: cover;
+
+}
+
+#Rodape{
+    justify-content: center;
+    align-self: center;
+    width: 100px ;
+    height: 90px ;
+    background-size: cover;
+
+}
+
+#letreiro{
+    justify-content: center;
+    align-self: center;
+    width: 100px ;
+    height: 90px ;
+    background-size: cover;
+    gap: 30rem;
+
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: #0056b3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h2{
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#part1{
+    justify-content: center;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#part2{
+    justify-content: center;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#Logo{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+}
+
+#start-instructions{
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#start-part1{
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#submit-part1{
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#submit-part2{
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#finish-test{
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#instructions{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#cabeça{
+    display: flex;
+    gap: 30rem;
+}
+
+#instru{
+    height: 400px;
+    width: 780px;
+    border: solid 3px #0056b3;
+    border-radius: 20px;
+    font-size: 21px;
+}
+
+#rodape1{
+    display: flex;
+    gap: 39rem;
+    width: 900px;
+    height: 100px;
+}
+
+#rodape2{
+    display: flex;
+    gap: 30rem;
+    width: 800px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+#borda{
+    border: solid 2px #0056b3;
+    border-radius: 30px;
+
+}
+
+#paragrafo{
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+#temperament-details{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: solid 3px #0056b3;
+    border-radius: 20px;
+    height: 550px;
+    width: 800px;
+}
+
+#result{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#alegria{
+    height: 250px;
+    width: 600px;
+}
+
+#raiva{
+    height: 250px;
+    width: 600px;
+}
+
+#tristeza{
+    height: 250px;
+    width: 600px;
+}
+#medo{
+    height: 250px;
+    width: 600px;
+}
+
+#botao{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#miau{
+    font-size: 30px;
+    display: flex;
+}
+
+#naoidentificado{
+    height: 400px;
+    width: 600px;
+}
